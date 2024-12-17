@@ -20,7 +20,7 @@ CMake is a cross-platform, open-source build system. MinGW-W64 is a compiler sui
 sudo apt install cmake ninja-build mingw-w64
 ```
 
-By following these steps, you'll have the necessary tools installed to create DLL files using C++ code on Ubuntu. Happy coding! 😊🔧💻
+By following these steps, you'll have the necessary tools installed to create DLL files using C++ code on Ubuntu.
 
 ----------------------------------------------------------------
 
@@ -107,7 +107,7 @@ MyDll/
 ├── CMakeLists.txt
 ```
 
-This project should create a DLL that you can then load into a Java program using FFI. If you run into any issues or need further assistance, feel free to ask! 😊🔧📂
+This project should create a DLL that you can then load into a Java program using FFI.
 
 --------------------------------------------------------------------------------------------
 
