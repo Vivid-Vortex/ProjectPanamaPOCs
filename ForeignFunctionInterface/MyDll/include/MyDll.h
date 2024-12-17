@@ -2,6 +2,16 @@
 #ifndef MYDLL_H
 #define MYDLL_H
 
-extern "C" const char* hello();
+struct InputObject {
+    int number;
+    const char* text;
+};
+
+struct OutputObject {
+    int result;
+    const char* message;
+};
+
+extern "C" OutputObject process(InputObject input);
 
 #endif // MYDLL_H
