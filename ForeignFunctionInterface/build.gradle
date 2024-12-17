@@ -27,6 +27,11 @@ dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter-web'
 	compileOnly 'org.projectlombok:lombok'
 	annotationProcessor 'org.projectlombok:lombok'
+
+	// FFI dependencies
+	implementation 'net.java.dev.jna:jna:5.15.0' // Core JNA Library
+	implementation 'net.java.dev.jna:jna-platform:5.15.0' // Platform Specific Utilities
+
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
 	testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
 }

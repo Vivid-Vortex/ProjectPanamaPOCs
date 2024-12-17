@@ -1,0 +1,3 @@
+/mnt/c/Users/Deepak/IdeaProjects/ProjectPanamaPOCs/ForeignFunctionInterface/MyDll/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Deepak/IdeaProjects/ProjectPanamaPOCs/ForeignFunctionInterface/MyDll/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Deepak/IdeaProjects/ProjectPanamaPOCs/ForeignFunctionInterface/MyDll/CMakeFiles/MyDll.dir
